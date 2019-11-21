@@ -21,5 +21,5 @@ For size/intensity determination of each single sucrose particle, the [libspimag
 diffraction pattern of spheres to the data. An example tutorial for this sizing procedure is described in this repository: 
 [sizing_example.ipynb](sizing_example.ipynb). This sizing pipeline has been applied to all sucrose events, the output is deposited in [http://cxidb.org/data/119/sizing/](http://cxidb.org/data/119/sizing/).
 
-## Error analysis ##
+### Error analysis ###
 It should be common practice to calculate the uncertainty for each size/intensity estimate, here is an example of how this can be done: [sizing_error_analysis.ipynb](sizing_error_analysis.ipynb). A more detailed description of this approach is given in the supplementary of the publication.
