@@ -16,10 +16,10 @@ Photon energy [eV] | Run numbers
 ### Data reduction and pre-processing ###
 The data has been processed with [Hummingbird](https://github.com/fxihub/hummingbird) using the configuration and tools deposited here: [https://github.com/mhantke/electrospray_injection](https://github.com/mhantke/electrospray_injection). The output of this processing pipeline is deposited in [http://cxidb.org/data/119/preprocessed/](http://cxidb.org/data/119/preprocessed/).
 
-### Size and intensity determination for each sucrose nanocluster ###
-For size/intensity determination of each single sucrose particle, the [libspimage](https://github.com/FXIhub/libspimage) library has been used to fit the 
+### Size and fluence determination for each sucrose nanocluster ###
+For size/fluence determination of each single sucrose particle, the [libspimage](https://github.com/FXIhub/libspimage) library has been used to fit the 
 diffraction pattern of spheres to the data. An example tutorial for this sizing procedure is described in this repository: 
 [sizing_example.ipynb](sizing_example.ipynb). This sizing pipeline has been applied to all sucrose events, the output is deposited in [http://cxidb.org/data/119/sizing/](http://cxidb.org/data/119/sizing/).
 
 ### Error analysis ###
-It should be common practice to calculate the uncertainty for each size/intensity estimate, here is an example of how this can be done: [sizing_error_analysis.ipynb](sizing_error_analysis.ipynb). A more detailed description of this approach is given in the supplementary of the publication.
+It should be common practice to calculate the uncertainty for each size/fluence estimate, here is an example of how this can be done: [sizing_error_analysis.ipynb](sizing_error_analysis.ipynb). A more detailed description of this approach is given in the supplementary of the publication.
