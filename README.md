@@ -1,6 +1,6 @@
 This repository provides a description of the data analysis tools used for a sucrose nanocluster experiment which was performed at the Linac Coherent Light Source (LCLS) and is described in 
 
-> Phay J. Ho *et al.* The role of transient resonances for ultra-fast imaging of single sucrose nanoclusters *Nat. Comm.* **X**, Y (2019). [DOI](DOI).
+> Phay J. Ho *et al.* The role of transient resonances for ultra-fast imaging of single sucrose nanoclusters *Nat. Comm.* **11**, 167 (2020). [https://doi.org/10.1038/s41467-019-13905-9](https://doi.org/10.1038/s41467-019-13905-9).
 
 The processed and sized data has been deposited in the Coherent X-ray Imaging Data Base (CXIDB) with ID **119** and can be downloaded from here: [http://cxidb.org/id-119.html](http://cxidb.org/id-119.html)
 
